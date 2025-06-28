@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Dheo Ariansyah
 
-🎓 I'm a Computer Science student who **just started serious coding in my 3rd year of college** — previously focusing only on design.  
-💡 Now, I combine both design and code to build better user experiences.  
-🎨 I may be tired of designing only, but **never of learning and shipping**.
+I'm a Computer Science student who **just started serious coding in my 3rd year of college** — previously focusing only on design. Now, I combine both design and code to build better user experiences. I may be tired of designing only, but **never of learning and shipping**.
+
+just waiting for my progress......... not a vibe coding
 
 ---
 
